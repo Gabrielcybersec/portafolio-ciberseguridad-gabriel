@@ -16,12 +16,23 @@ Aquí documento casos reales, prácticas técnicas y análisis estructurados que
 
 ## 📂 Estructura del portafolio
 
-Cada carpeta contiene documentacion de casos prácticos 
+Cada carpeta contiene documentación de casos prácticos desarrollados por área de especialización:
 
-- `ciberseguridad-defensiva/`
-- `pentesting/`
-- `analisis-forense/`
-- `redes/`
+- `ciberseguridad-defensiva/`  
+  Casos enfocados en protección, detección y respuesta ante amenazas.
+
+- `pentesting/`  
+  Escenarios de pruebas de penetración, escaneo, explotación y post-explotación ética.
+
+- `analisis-forense/`  
+  Casos de análisis y preservación de evidencia digital en entornos simulados.
+
+- `redes/`  
+  Proyectos de configuración, segmentación, protocolos y análisis de tráfico en redes Cisco.
+
+- `conceptos-tecnicos/`  
+  📘 **Explicaciones teóricas clave que respaldan cada caso práctico.**  
+  Esta carpeta funciona como una **wiki técnica personal**, organizada por área, donde explico conceptos fundamentales como el three-way handshake, flags TCP, modelos de red, escaneos SYN, protocolos, hashing, y más.
 
 ---
 
