@@ -14,7 +14,7 @@ Aquí documento casos reales, prácticas técnicas y análisis estructurados que
 
 ---
 
-## 🗂️ Estructura del portafolio
+## 📂 Estructura del portafolio
 
 Cada carpeta contiene documentación detallada de casos prácticos:
 
