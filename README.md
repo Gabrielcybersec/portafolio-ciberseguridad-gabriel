@@ -1,4 +1,4 @@
-# 🧠 Portafolio de Gabriel Jiménez
+# 🧠 Portafolio de Gabriel Jiménez Marchena
 
 Bienvenido a mi portafolio profesional en **ciberseguridad ofensiva y defensiva**, **análisis forense digital** y **redes**.  
 Aquí documento casos reales, prácticas técnicas y análisis estructurados que demuestran mis capacidades en el campo.
