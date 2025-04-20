@@ -16,7 +16,7 @@ Aquí documento casos reales, prácticas técnicas y análisis estructurados que
 
 ## 📂 Estructura del portafolio
 
-Cada directorio contiene documentación de casos prácticos:
+Cada carpeta contiene documentacion de casos prácticos 
 
 - `ciberseguridad-defensiva/`
 - `pentesting/`
