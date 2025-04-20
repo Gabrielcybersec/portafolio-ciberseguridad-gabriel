@@ -1,4 +1,4 @@
-# 🧠 Conceptos Técnicos – Gabriel Jiménez
+# 🧠 Conceptos Técnicos – Gabriel Jiménez Marchena
 
 Esta sección contiene explicaciones claras, directas y profesionales sobre conceptos técnicos fundamentales que respaldan mi portafolio de casos prácticos.
 
