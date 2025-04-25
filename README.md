@@ -39,7 +39,7 @@ Cada carpeta contiene documentación de casos prácticos desarrollados por área
 ## 🧩 ¿Quién soy?
 
 Soy un apasionado de la ciberseguridad con un enfoque autodidacta y práctico.  
-Mi objetivo es convertirme en un referente técnico y estratégico en el área, con base en estudio disciplinado, ejecución real y aprendizaje constante.
+Mi objetivo es convertirme en un referente y estratégico en el área, con base en estudio disciplinado, ejecución real y aprendizaje constante.
 
 ---
 
