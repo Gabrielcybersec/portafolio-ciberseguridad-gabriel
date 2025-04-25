@@ -1,0 +1,31 @@
+# 📍 Dirección IP – Conceptos Fundamentales de Red
+
+---
+
+## 🧠 ¿Qué es una dirección IP?
+
+Una **dirección IP** (Internet Protocol Address) es un **identificador único** asignado a cada dispositivo en una red para permitir la comunicación y el enrutamiento de datos.
+
+> 📌 Es el equivalente a una **dirección postal**, permitiendo enviar y recibir datos de forma precisa.
+
+**Ejemplos de direcciones IPv4:**
+- `192.168.0.1`
+- `172.16.159.243`
+
+---
+
+## 🧩 Funciones clave
+
+- Identificar de forma única a cada host en una red.
+- Permitir la **localización lógica** y el **enrutamiento** de paquetes.
+- Facilitar la comunicación entre redes mediante routers.
+
+---
+
+## 📚 Estructura de una dirección IPv4
+
+- Compuesta por **4 octetos** (32 bits en total).
+- Cada octeto tiene 8 bits, y puede representar un valor de `0` a `255`.
+
+```plaintext
+Ejemplo: 192.168.1.1
