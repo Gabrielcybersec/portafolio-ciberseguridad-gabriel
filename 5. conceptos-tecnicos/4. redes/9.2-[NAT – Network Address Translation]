@@ -1,0 +1,34 @@
+# 🌐 NAT – Network Address Translation
+
+---
+
+## 🧠 ¿Qué es NAT y por qué existe?
+
+**NAT** es una técnica que permite que múltiples dispositivos con **direcciones IP privadas** accedan a Internet usando **una sola IP pública**. 
+
+Esto resuelve el problema de escasez de direcciones IPv4, que solo ofrece ~4 mil millones de IPs únicas.
+
+> 🔥 NAT traduce IPs y puertos internos en públicos, y mantiene el seguimiento para que la comunicación funcione en ambos sentidos.
+
+---
+
+## 📦 ¿Cómo funciona?
+
+Cuando un dispositivo (como tu laptop) en la red privada desea acceder a Internet:
+
+1. Envía un paquete desde su IP privada y puerto (ej: `192.168.0.129:15401`)
+2. El **router NAT** reemplaza la IP privada con su IP pública (ej: `212.3.4.5`)
+3. Cambia el puerto para hacerlo único (ej: `19273`)
+4. Guarda esta asociación en su **tabla NAT**
+5. Cuando llega la respuesta desde Internet, la usa para reenviar los datos al host correcto
+
+---
+
+## 🧪 Ejemplo real de tabla NAT
+
+| IP Interna         | Puerto Interno | IP Pública   | Puerto Externo |
+|--------------------|----------------|--------------|----------------|
+| 192.168.0.129      | 15401          | 212.3.4.5    | 19273          |
+
+El servidor solo ve:
+
