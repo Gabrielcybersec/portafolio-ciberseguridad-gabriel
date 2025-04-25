@@ -67,8 +67,7 @@ Para aprovechar al máximo este contenido:
 ## 👨‍💻 Autor
 
 **Gabriel Jiménez Marchena**  
-Apasionado por las redes, la ciberseguridad ofensiva y el aprendizaje autodidacta estructurado.  
-📍 Estudiante de CCNA, CEH y administración técnica.
+Apasionado por las redes, la ciberseguridad ofensiva y el aprendizaje autodidacta estructurado. 
 
 ---
 
