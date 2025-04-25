@@ -1,34 +1,30 @@
-# 🧠 Portafolio de Gabriel Jiménez Marchena
+# 🧠 Portafolio Profesional – Gabriel Jiménez Marchena
 
-Bienvenido a mi portafolio profesional en **ciberseguridad ofensiva y defensiva**, **análisis forense digital** y **redes**.  
-Aquí documento casos reales, prácticas técnicas y análisis estructurados que demuestran mis capacidades en el campo.
-
----
-
-## 🔐 Áreas de especialización
-
-- **Ciberseguridad Defensiva:** detección de amenazas, análisis de tráfico, gestión de eventos y hardening de sistemas.
-- **Pentesting (Ofensiva):** escaneo, explotación controlada, pruebas de vulnerabilidad y documentación de hallazgos.
-- **Análisis Forense Digital:** adquisición de evidencia, preservación, análisis con herramientas forenses y generación de informes.
-- **Redes:** comprensión profunda del modelo TCP/IP, configuración de dispositivos Cisco, segmentación de redes y seguridad.
+Bienvenido a mi portafolio integral enfocado en **ciberseguridad ofensiva y defensiva**, **análisis forense digital** y **redes**.  
+Aquí documento tanto **casos reales y simulaciones técnicas**, como material **teórico y explicativo**, evidenciando mis habilidades, análisis y evolución en el campo.
 
 ---
 
-## 📂 Estructura del portafolio
+## 🔐 Áreas de Especialización
 
-Cada carpeta contiene documentación de casos prácticos desarrollados por área de especialización:
+- **Ciberseguridad Defensiva**  
+  Monitoreo, detección de amenazas, gestión de eventos (SIEM), análisis de tráfico y hardening de sistemas.
 
-- `ciberseguridad-defensiva/`  
-  Casos enfocados en protección, detección y respuesta ante amenazas.
+- **Pentesting (Ciberseguridad Ofensiva)**  
+  Reconocimiento, escaneo, explotación controlada, post-explotación, reporte técnico y validación ética de vulnerabilidades.
 
-- `pentesting/`  
-  Escenarios de pruebas de penetración, escaneo, explotación y post-explotación ética.
+- **Análisis Forense Digital**  
+  Adquisición y preservación de evidencia, análisis con herramientas como Autopsy o Volatility, y elaboración de informes forenses.
 
-- `analisis-forense/`  
-  Casos de análisis y preservación de evidencia digital en entornos simulados.
+- **Redes y Telecomunicaciones**  
+  Fundamentos del modelo OSI/TCP-IP, configuración de dispositivos Cisco, diseño de topologías, segmentación de redes, seguridad y troubleshooting.
 
-- `redes/`  
-  Proyectos de configuración, segmentación, protocolos y análisis de tráfico en redes Cisco.
+---
+
+## 📂 Estructura del Portafolio
+
+Cada carpeta representa un área de especialización, dividida en módulos temáticos numerados.  
+**Cada módulo** contiene una sección **teórica (explicativo)** y una sección **práctica (README técnico + laboratorios)**:
 
 ---
 
