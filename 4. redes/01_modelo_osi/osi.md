@@ -126,6 +126,3 @@ Es el medio físico real que transmite los bits (0 y 1).
 > Aunque hoy se usa más el modelo TCP/IP en redes reales, **OSI sigue siendo la base para aprender cómo se comunican las redes**.  
 > Dominar OSI = entender cómo viaja tu mensaje de WhatsApp desde tu celular hasta otro, pasando por 7 etapas invisibles. 😉
 
----
-
-¿Querés que te genere también una infografía o una versión en PDF para estudio? 📄✨
