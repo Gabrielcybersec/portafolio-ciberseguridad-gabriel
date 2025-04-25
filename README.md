@@ -30,10 +30,6 @@ Cada carpeta contiene documentación de casos prácticos desarrollados por área
 - `redes/`  
   Proyectos de configuración, segmentación, protocolos y análisis de tráfico en redes Cisco.
 
-- `conceptos-tecnicos/`  
-  📘 **Explicaciones teóricas clave que respaldan cada caso práctico.**  
-  Esta carpeta funciona como una **wiki técnica personal**, organizada por área, donde explico conceptos fundamentales como el three-way handshake, flags TCP, modelos de red, escaneos SYN, protocolos, hashing, y más.
-
 ---
 
 ## 🧩 ¿Quién soy?
