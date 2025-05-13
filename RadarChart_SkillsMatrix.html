@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Radar Chart - Skills Matrix</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            background-color: #0f172a;
+            color: #f8fafc;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 2rem;
+        }
+        canvas {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #1e293b;
+            border-radius: 1rem;
+            padding: 1rem;
+        }
+        h1 {
+            color: #38bdf8;
+        }
+    </style>
+</head>
+<body>
+    <h1>🧩 Skills Matrix - Radar Chart</h1>
+    <canvas id="skillsRadar" width="400" height="400"></canvas>
+
+    <script>
+        const ctx = document.getElementById('skillsRadar');
+
+        new Chart(ctx, {
+            type: 'radar',
+            data: {
+                labels: [
+                    'Security Operations',
+                    'Incident Response',
+                    'Malware Analysis',
+                    'Penetration Testing',
+                    'Exploitation',
+                    'Red Teaming'
+                ],
+                datasets: [{
+                    label: 'Gabriel Jimenez - Skills',
+                    data: [1, 1, 1, 1, 1, 1],
+                    backgroundColor: 'rgba(56, 189, 248, 0.2)',
+                    borderColor: 'rgba(56, 189, 248, 1)',
+                    pointBackgroundColor: 'rgba(56, 189, 248, 1)',
+                    pointBorderColor: '#fff',
+                    pointHoverBackgroundColor: '#fff',
+                    pointHoverBorderColor: 'rgba(56, 189, 248, 1)'
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    r: {
+                        angleLines: { color: '#334155' },
+                        grid: { color: '#334155' },
+                        pointLabels: {
+                            color: '#f8fafc',
+                            font: { size: 14 }
+                        },
+                        suggestedMin: 0,
+                        suggestedMax: 5
+                    }
+                },
+                plugins: {
+                    legend: {
+                        labels: { color: '#f8fafc' }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
